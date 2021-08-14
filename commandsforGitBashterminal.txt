@@ -1,0 +1,10 @@
+touch file.name--->ex: touch index.html--->create file:
+git init------output(Initialized empty Git repository in D:/HTML/.git/) 
+git add .------>add all the files in file path
+git add file.name(audi.class)------->add single file
+git status----------->retrieve all files after adding 
+git commit -m "first commit"----------commiting after file added
+git remote add origin https://github.com/hussain386/apptitudelearning.git(in github choose new repository and create after this code will appear)
+git push -u origin master---------final step for pushing all the files to  remote Github
+
+
